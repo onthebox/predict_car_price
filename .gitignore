@@ -1,0 +1,5 @@
+# Virtual environment
+venv
+
+# ipynb checkpoints
+**/.ipynb_checkpoints
