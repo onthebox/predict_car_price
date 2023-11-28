@@ -3,3 +3,11 @@ venv
 
 # ipynb checkpoints
 **/.ipynb_checkpoints
+
+# python cache
+**/__pycache__
+
+# test data
+test.csv
+test_result.csv
+predicted.csv
