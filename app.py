@@ -228,7 +228,3 @@ def predict_items(file: Annotated[UploadFile, File(description="A file read as U
     response = FileResponse(path='predicted.csv', media_type='text/csv', filename=filename)
 
     return response
-
-
-# if __name__ == "__name__":
-    # uvicorn.run("app:app", host="0.0.0.0", port=8000)
