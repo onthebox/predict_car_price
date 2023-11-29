@@ -1,0 +1,6 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,torque,seats
+Maruti Swift Dzire VDI,2014,145500,Diesel,Individual,Manual,First Owner,23.4,1248,74.0,190.0,5
+Skoda Rapid 1.5 TDI Ambition,2014,120000,Diesel,Individual,Manual,Second Owner,21.14,1498,103.52,250.0,5
+Hyundai i20 Sportz Diesel,2010,127000,Diesel,Individual,Manual,First Owner,23.0,1396,90.0,219.7,5
+Maruti Swift VXI BSIII,2007,120000,Petrol,Individual,Manual,First Owner,16.1,1298,88.2,112.8,5
+Hyundai Xcent 1.2 VTVT E Plus,2017,45000,Petrol,Individual,Manual,First Owner,20.14,1197,81.86,113.8,5
